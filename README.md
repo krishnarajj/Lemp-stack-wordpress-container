@@ -9,8 +9,9 @@ Open a terminal and navigate to the directory containing the script.
 Ensure that the script has executable permissions
 
             chmod +x wordpress-setup.sh
-# Usage
-Please make sure you have sudo permission.Run the script with sudo permission or admin
+# Usage:
+Please make sure you have sudo permission.Run the script with sudo permission or admin in Ubuntu
+
 Run the script with the following command:
      
      ./wordpress-setup.sh <site_name> [subcommand]
