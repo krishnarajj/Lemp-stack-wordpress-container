@@ -100,7 +100,7 @@ fuser -k 8000/tcp 9000/tcp 8081/tcp 8080/tcp
 echo "Creating LEMP stck in docker for wordpress"
 docker-compose up -d
 echo "Servers created"
-echo "Site created successfully. Open http://localhost:8085 or $sitename in your browser."
+echo "Site created successfully. Open http://localhost:8085 or $site_name in your browser."
 
 # Additional subcommands
 
